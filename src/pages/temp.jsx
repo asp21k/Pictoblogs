@@ -1,25 +1,25 @@
 import React, { useState, useEffect } from "react";
 
 const Temp = () => {
-  const [sampleDataArray, setSampleDataArray] = useState([]);
+  // const [sampleDataArray, setSampleDataArray] = useState([]);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch("http://localhost:3000/posts");
-        const data = await response.json();
-        setSampleDataArray(data); // Directly set the array
-        console.log(response);
-        console.log(data);
-      } catch (error) {
-        console.error("Error fetching data:", error);
-      }
-    };
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     try {
+  //       const response = await fetch("https://github.com/asp21k/Pictoblogs/blob/main/public/data.json");
+  //       const data = await response.json();
+  //       setSampleDataArray(data); // Directly set the array
+  //       console.log(response);
+  //       console.log(data);
+  //     } catch (error) {
+  //       console.error("Error fetching data:", error);
+  //     }
+  //   };
 
-    fetchData();
-  }, []);
+  //   fetchData();
+  // }, []);
 
-  console.log(sampleDataArray);
+  // console.log(sampleDataArray);
   
 
   return (

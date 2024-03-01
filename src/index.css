@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+
+.font-cursive {
+  font-family: 'Alex Brush', cursive;
+}
+.text-shadow :hover {
+    text-shadow: 2px 2px 4px rgb(0, 183, 255); /* Adjust values as needed */
+  }

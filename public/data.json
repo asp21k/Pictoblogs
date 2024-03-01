@@ -8,8 +8,12 @@
       "_id": "6592fdb1eb296718bd98034b",
       "title": "UI/UX Development",
       "author": ["Atharva Pardeshi"],
-      "tags": ["UI"],
-      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatem exercitationem nihil reiciendis quae delectus impedit consequatur iste explicabo, dolore illo inventore dicta excepturi consequuntur magnam veritatis eos quam animi officia possimus nisi ipsa ab. Ipsam, suscipit asperiores impedit accusantium, veritatis voluptates eius rem odit sed adipisci voluptatibus sapiente inventore ad mollitia magnam! Reiciendis aut, accusantium quasi numquam ut non eaque temporibus modi voluptatibus praesentium atque eum doloribus? Animi, earum id quaerat quidem voluptas dolor maiores debitis, dolores, at vitae officia dicta cumque tempore accusantium magni culpa in omnis explicabo necessitatibus quos voluptates blanditiis similique? Fuga vel quibusdam quidem laborum?",
+      "tags": [
+        { "name": "UI", "color": "pink" },
+        { "name": "UX", "color": "orange" },
+        { "name": "Design", "color": "green" }
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "category": "Technology",
       "date": "10 January 2024",
       "createdAt": "2024-01-01T18:00:17.198Z",
@@ -25,8 +29,12 @@
       "_id": "6592fe25eb296718bd98034e",
       "title": "Full Stack Development",
       "author": ["Kishanlal Choudhary"],
-      "tags": ["Web", "Frontend", "Backend"],
-      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatem exercitationem nihil reiciendis quae delectus impedit consequatur iste explicabo, dolore illo inventore dicta excepturi consequuntur magnam veritatis eos quam animi officia possimus nisi ipsa ab. Ipsam, suscipit asperiores impedit accusantium, veritatis voluptates eius rem odit sed adipisci voluptatibus sapiente inventore ad mollitia magnam! Reiciendis aut, accusantium quasi numquam ut non eaque temporibus modi voluptatibus praesentium atque eum doloribus? Animi, earum id quaerat quidem voluptas dolor maiores debitis, dolores, at vitae officia dicta cumque tempore accusantium magni culpa in omnis explicabo necessitatibus quos voluptates blanditiis similique? Fuga vel quibusdam quidem laborum?",
+      "tags": [
+        { "name": "Web", "color": "blue" },
+        { "name": "Frontend", "color": "green" },
+        { "name": "Backend", "color": "purple" }
+      ],
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit...",
       "category": "Non Technology",
       "date": "15 January 2024",
       "createdAt": "2024-01-01T18:02:13.705Z",
